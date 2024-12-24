@@ -6,12 +6,16 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "vercel": "^39.2.2"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
   }
 }
