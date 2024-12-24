@@ -16,6 +16,6 @@
     "vercel": "^39.2.2"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
+    "vite": "^3.0.0"
   }
 }
